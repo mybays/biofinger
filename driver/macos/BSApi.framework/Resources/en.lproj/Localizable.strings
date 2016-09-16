@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Cannot find fingerprint sensor device.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>Fingerprint sensor device is exclusively used by another application.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>There is not enough permanent memory on the device.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>Fingerprint sensor device reported a hardware failure.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Fingerprint sensor device communication error.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Using fingerprint sensor over remote desktop connection requires a client application which is not installed on the client machine.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Suggestion: Contact your software vendor to obtain the remote client application.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Biometric operation timed out.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Suggestion: You can start the operation again.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Succeeded</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Failed</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Consolidation failed</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Already enrolled</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Intruder Lockout</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Intruder Lockout (%1!d! seconds)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>Processing</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>Sensor in use</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Swipe finger</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Put finger</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Center and press harder</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Too left</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Too right</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Too low</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Too high</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Too small</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Bad quality</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Clean the sensor</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Too fast</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Too skewed</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Too short</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Backward movement</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Joint detected</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Lift finger</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Too light</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Put finger flat</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>An internal error occurred (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>The data have incorrect format.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>The date is invalid.</string>
+</dict>
+</plist>

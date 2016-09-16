@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Kan vingerafdruksensor niet vinden.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>De vingerafdruksensor wordt exclusief gebruikt door een andere toepassing.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>Het apparaat heeft onvoldoende permanent geheugen.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>Er is een hardwarefout opgetreden in de vingerafdruksensor.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Er is een communicatiefout met de vingerafdruksensor opgetreden.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Het gebruik van de vingerafdruksensor via een verbinding met een extern bureaublad vereist een clienttoepassing die niet is geïnstalleerd op de clientmachine.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Suggestie: neem contact op met uw softwareleverancier om de externe clienttoepassing aan te schaffen.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Er is een timeout opgetreden tijdens de biometrische bewerking.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Suggestie: u kunt de bewerking opnieuw starten.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Geslaagd</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Mislukt</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Consolidatie mislukt</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Al geregistreerd</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Indringer uitsluiten</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Indringer uitgesloten (%1!d! seconden)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>Bezig met verwerken</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>Sensor is in gebruik</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Haal uw vinger over de sensor</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Plaats uw vinger</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Centreer en druk harder</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Naar links</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Naar rechts</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Te laag</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Te hoog</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Te klein</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Slechte kwaliteit</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Reinig de sensor</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Te snel</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Te scheef</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Te kort</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Teruggaande beweging</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Gewricht gedetecteerd</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Til uw vinger op</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Te licht</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Leg vinger plat</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Er is een interne fout opgetreden (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>De gegevens hebben een onjuiste indeling.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>De datum is ongeldig.</string>
+</dict>
+</plist>

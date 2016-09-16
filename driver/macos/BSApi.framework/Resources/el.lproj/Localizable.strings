@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Δεν είναι δυνατός ο εντοπισμός του αισθητήρα δαχτυλικών αποτυπωμάτων.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>Η συσκευή αισθητήρα δαχτυλικών αποτυπωμάτων χρησιμοποιείται αποκλειστικά από άλλη εφαρμογή.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>Η μόνιμη μνήμη της συσκευής δεν επαρκεί.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>Η συσκευή αισθητήρα δαχτυλικών αποτυπωμάτων ανέφερε ένα σφάλμα υλικού.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Σφάλμα επικοινωνίας με τη συσκευή αισθητήρα.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Για τη χρήση της συσκευής αισθητήρα δακτυλικών αποτυπωμάτων μέσω σύνδεσης απομακρυσμένης επιφάνειας εργασίας, απαιτείται μια εφαρμογή-πελάτης η οποία δεν είναι εγκατεστημένη στον υπολογιστή-πελάτη.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Συμβουλή: Επικοινωνήστε με τον προμηθευτή του λογισμικού σας για να αποκτήσετε την απομακρυσμένη εφαρμογή-πελάτη.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Τέλος χρόνου βιομετρικής λειτουργίας.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Πρόταση: Μπορείτε να ξεκινήσετε τη λειτουργία ξανά.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Επιτυχής</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Απέτυχε</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Η συνάθροιση απέτυχε</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Ήδη εγγεγραμμένο</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Αποκλεισμός εισβολέα</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Αποκλεισμός εισβολέα (%1!d! δευτερόλεπτα)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>Επεξεργασία</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>Αισθητήρας σε χρήση</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Περάστε το δάκτυλο</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Τοποθετήστε το δάκτυλο</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Τοποθετήστε στο κέντρο και πιέστε πιο δυνατά</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Πολύ αριστερά</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Πολύ δεξιά</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Πολύ κοντό</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Πολύ ψηλό</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Πολύ μικρό</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Κακής ποιότητας</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Καθαρίστε τον αισθητήρα</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Πολύ γρήγορα</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Πολύ λοξό</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Πολύ μικρό</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Κίνηση προς τα πίσω</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Ανίχνευση άρθρωσης</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Σηκώστε το δάκτυλο</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Πολύ ελαφρύ</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Ακουμπήστε το δάκτυλό σας στην επιφάνεια</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Παρουσιάστηκε εσωτερικό σφάλμα (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>Τα δεδομένα έχουν εσφαλμένη μορφή.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>Η ημερομηνία δεν είναι έγκυρη.</string>
+</dict>
+</plist>

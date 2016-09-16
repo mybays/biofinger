@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>找不到指紋感應器裝置。</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>指紋感應器被另一個應用程式所佔用。</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>此裝置無足夠的永久記憶體。</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>指紋感應器裝置被指出有硬體故障。</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>指紋感應器通訊錯誤。</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>使用指紋感應器進行遠端桌面連線需要尚未安裝於用戶端電腦上的用戶端應用程式。</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>建議：聯絡您的軟體供應商以獲得遠端用戶端應用程式。</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>生物測定作業逾時。</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>建議：您可再次啟動操作。</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>成功</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>失敗</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>合併失敗</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>已經註冊</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>侵入者鎖定</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>侵入者鎖定 (%1!d! 秒)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>處理中</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>感應器使用中</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>滑過手指</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>放置手指</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>置中並用力按</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>太左邊</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>太右邊</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>太低</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>太高</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>太小</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>品質不好</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>清潔感應器</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>太快</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>太扭曲</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>太短</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>返回動作</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>偵測到關節</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>抬起手指</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>太輕</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>將手指放平</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>發生內部錯誤 (%1: %2)。</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>資料格式不正確。</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>資料無效。</string>
+</dict>
+</plist>

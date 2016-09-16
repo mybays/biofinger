@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Não é possível encontrar o dispositivo sensor de impressões digitais.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>O dispositivo sensor de impressões digitais está a ser utilizado em exclusivo por outra aplicação.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>Não existe memória permanente suficiente no dispositivo.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>O dispositivo sensor de impressões digitais comunicou uma falha de hardware.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Erro de comunicação do dispositivo sensor de impressões digitais.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>A utilização do sensor de impressões digitais através da ligação ao ambiente de trabalho remoto requer uma aplicação cliente, que não está instalada no computador cliente.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Sugestão: Contacte o seu fornecedor de software para obter a aplicação cliente remota.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>O tempo limite da operação biométrica foi excedido.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Sugestão: pode iniciar novamente a operação.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Com êxito</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Falhou</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>A consolidação falhou</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Já está registado</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Bloqueio de intruso</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Bloqueio de intruso (%1!d! segundos)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>A processar</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>O sensor está a ser utilizado</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Passar dedo</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Colocar dedo</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Centre e prima com mais firmeza</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Demasiado à esquerda</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Demasiado à direita</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Demasiado baixo</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Demasiado alto</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Demasiado pequeno</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Má qualidade</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Limpe o sensor</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Demasiado rápido</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Demasiado oblíquo</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Demasiado curto</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Movimento para trás</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Falange detectada</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Levantar o dedo</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Demasiada luz</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Colocar dedo esticado</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Ocorreu um erro interno (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>Os dados têm um formato incorrecto.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>A data é inválida.</string>
+</dict>
+</plist>

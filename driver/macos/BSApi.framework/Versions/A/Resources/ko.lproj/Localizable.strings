@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>지문 인식기 장치를 찾을 수 없습니다.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>지문 인식기 장치를 다른 응용 프로그램에서 독점적으로 사용하고 있습니다.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>장치에 영구 메모리가 부족합니다.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>지문 인식기 장치로 인해 하드웨어 오류가 발생했습니다.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>지문 인식기 장치 통신 오류입니다.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>원격 데스크탑 연결 상태에서 지문 리더를 사용하려면 클라이언트 컴퓨터에 현재 설치되어 있지 않은 클라이언트 응용 프로그램이 필요합니다.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>제안: 소프트웨어 공급업체에 원격 클라이언트 응용 프로그램을 문의하십시오.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>생체 인식 작업 시간이 초과되었습니다.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>제안: 작업을 다시 시작할 수 있습니다.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>성공</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>실패</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>통합 실패</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>이미 등록됨</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>침입자 잠금</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>침입자 잠금(%1!d!초)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>처리 중</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>인식기가 작동 중입니다.</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>손가락을 문지르십시오.</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>손가락을 넣으십시오.</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>중앙에 맞추고 더 세게 누르십시오.</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>왼쪽으로 치우쳤습니다.</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>오른쪽으로 치우쳤습니다.</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>너무 낮습니다.</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>너무 높습니다.</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>너무 작습니다.</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>지문이 인식되지 않았습니다.</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>리더를 닦으십시오.</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>너무 빠릅니다.</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>너무 대각선으로 기울어졌습니다.</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>너무 짧습니다.</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>문지르기를 반대 방향으로 했습니다.</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>마디가 인식되었습니다.</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>손가락을 떼십시오.</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>너무 밝습니다.</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>손가락을 수평으로 대십시오.</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>내부 오류가 발생했습니다(%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>데이터 형식이 잘못되었습니다.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>데이터가 잘못되었습니다.</string>
+</dict>
+</plist>

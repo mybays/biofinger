@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Не удается найти устройство с датчиком отпечатков.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>Устройство с датчиком отпечатков эксклюзивно используется другим приложением.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>Недостаточно постоянной памяти для устройства.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>Устройство с датчиком отпечатков выдало сообщение об ошибке оборудования.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Ошибка связи устройства с датчиком отпечатков.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Использование датчика отпечатков через удаленный рабочий стол требует клиентского приложения, которое не установлено на компьютере-клиенте.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Вариант. Свяжитесь с вашим поставщиком программного обеспечения, чтобы получить клиентское приложение для удаленной работы.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Время биометрической операции истекло.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Вариант. Вы можете снова запустить приложение.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Успех</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Неудачно</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Объединение не выполнено</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Уже зарегистрирован</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Блокировка доступа</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Блокировка доступа (%1!d! с)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>Обработка</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>Датчик используется</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Переместите палец</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Поместите палец</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Поместите в центр и нажмите сильнее</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Правее</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Левее</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Выше</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Ниже</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Больше</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Низкое качество</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Протрите датчик</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Слишком быстро</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Сместился</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Слишком мало</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Перемещение в обратную сторону</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Обнаружен сустав</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Поднимите палец</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Слишком слабо</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Прижмите подушечку пальца</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Произошла внутренняя ошибка (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>Неправильный формат данных.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>Неправильная дата.</string>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>指紋センサーデバイスが見つかりません。</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>指紋センサーデバイスが他のアプリケーションにより排他的に使用されています。</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>デバイスには十分の永久メモリがありません。</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>指紋センサーデバイスにより、ハードウェア障害が報告されました。</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>指紋センサーデバイスで通信エラーが発生しました。</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>リモートデスクトップ接続を通じて指紋センサーを使用するには、接続元のマシンには、クライアントアプリケーションがインストールされていない必要があります。</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>提案: リモートクライアントアプリケーションの入手については、ソフトウェアの提供元にお問い合わせください。</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>バイオメトリクス操作のタイムアウト</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>提案: もう一度処理を開始できます。</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>成功しました</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>失敗しました</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>統合できませんでした。</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>すでに登録されています</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>侵入者ロックアウト</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>侵入者ロックアウト (%1!d! 秒)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>処理中</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>センサーが使用中です</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>指の読み取り</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>指を置いてください</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>中央で強く押してください</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>左に寄りすぎています</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>右に寄りすぎています</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>下すぎます</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>上すぎます</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>小さすぎます</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>読み取れません</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>センサーを掃除してください</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>速すぎます</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>斜めになっています</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>短かすぎます</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>読み取り方向が逆です</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>関節を検出しました</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>センサーから指をはなしてください</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>軽すぎます</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>指を水平に置いてください</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>内部エラーが発生しました (%1: %2)。</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>データの形式が正しくありません。</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>日付が無効です。</string>
+</dict>
+</plist>

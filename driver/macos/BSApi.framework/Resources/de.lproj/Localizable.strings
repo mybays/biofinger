@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>Fingerabdrucksensor kann nicht gefunden werden.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>Der Fingerabdrucksensor wird von einer anderen Anwendung exklusiv verwendet.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>Zu wenig permanenter Speicher im Gerät.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>Hardwarefehler vom Fingerabdrucksensor gemeldet.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Fingerabdrucksensor-Gerätekommunikationsfehler</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Für die Verwendung des Fingerabdrucksensors über eine Remotedesktopverbindung ist eine Client-Anwendung erforderlich, die nicht auf dem Client-Rechner installiert ist.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Vorschlag: Wenden Sie sich an Ihren Softwarehändler, um die Remote-Clientanwendung zu erwerben.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Das Zeitlimit für den biometrischen Vorgang wurde überschritten.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Vorschlag: Starten Sie den Vorgang erneut.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Erfolgreich</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Fehler</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Konsolidierungs-fehler</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Benutzer ist bereits registriert</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Angriffssperre</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Angriffssperre (%1!d! Sekunden)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>Verarbeitung</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>Sensor wird verwendet</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Finger über Sensor führen</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Finger auflegen</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Zentrieren und stärker drücken</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Zu weit links</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Zu weit rechts</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Zu niedrig</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Zu hoch</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Zu klein</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Schlechte Qualität</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Sensor reinigen</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Zu schnell</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Zu schräg</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Zu kurz</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Rückwärtsbewegung</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Knöchel erkannt</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Finger heben</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Zu leicht</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Finger flach auflegen</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Interner Fehler (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>Falsches Datenformat.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>Das Datum ist ungültig.</string>
+</dict>
+</plist>

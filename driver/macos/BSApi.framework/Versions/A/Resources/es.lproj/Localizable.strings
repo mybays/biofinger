@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>No se puede encontrar el dispositivo de sensor de huellas digitales.</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>El dispositivo de sensor de huellas digitales está siendo utilizado en exclusiva por otra aplicación.</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>No hay suficiente memoria permanente en el dispositivo.</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>El dispositivo de sensor de huellas digitales ha detectado un fallo de hardware.</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>Error de comunicación del dispositivo de sensor de huellas digitales.</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>Para utilizar el sensor de huellas digitales con una conexión de escritorio remoto, es necesaria una aplicación cliente que no está instalada en la máquina del cliente.</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>Sugerencia: póngase en contacto con el proveedor de software para obtener la aplicación cliente remota.</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>Ha transcurrido el tiempo de espera de la operación biométrica.</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>Sugerencia: puede volver a iniciar la operación.</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>Correcto</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>Error</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>Fallo de consolidación</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>Ya está incluido</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>Bloqueo de intruso</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>Bloqueo de intruso (%1!d! segundos)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>En proceso</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>El sensor está en uso</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>Pasar dedo</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>Poner dedo</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>Centrar y pulsar más fuerte</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>Demasiado a la izquierda</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>Demasiado a la derecha</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>Demasiado abajo</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>Demasiado arriba</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>Demasiado pequeña</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>Mala calidad</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>Limpiar el sensor</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>Demasiado rápido</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>Demasiado torcida</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>Demasiado corta</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>Movimiento de retroceso</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>Articulación detectada</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>Levante el dedo</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>Demasiado clara</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>Poner dedo horizontal</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>Se ha producido un error interno (%1: %2).</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>Formato incorrecto de los datos.</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>Fecha no válida.</string>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESID_BIOPT_DEVICE_OPEN</key>
+	<string>无法找到指纹传感器设备。</string>
+	<key>ESID_BIOPT_DEVICE_USED</key>
+	<string>指纹传感器设备被其他应用程序独占使用。</string>
+	<key>ESID_BIOPT_DEVICE_NO_MEMORY</key>
+	<string>设备上没有足够的永久性内存。</string>
+	<key>ESID_BIOPT_DEVICE_HWPROBLEM</key>
+	<string>指纹传感器设备报告硬件故障。</string>
+	<key>ESID_BIOPT_DEVICE_COMM</key>
+	<string>指纹传感器设备通信错误。</string>
+	<key>ESID_BIOPT_DEVICE_REMOTE</key>
+	<string>通过远程桌面连接使用指纹传感器时，需要一个未在客户端计算机上安装的客户端应用程序。</string>
+	<key>SSID_BIOPT_DEVICE_REMOTE</key>
+	<string>建议: 联系您的软件供应商以获取远程客户端应用程序。</string>
+	<key>ESID_BIOPT_BIO_TIMEOUT</key>
+	<string>生物统计操作超时。</string>
+	<key>SSID_BIOPT_BIO_TIMEOUT</key>
+	<string>建议: 可以重新开始该操作。</string>
+	<key>SID_GUI_MSG_PROCESS_SUCCEEDED</key>
+	<string>成功</string>
+	<key>SID_GUI_MSG_PROCESS_FAILED</key>
+	<string>失败</string>
+	<key>SID_GUI_MSG_PROCESS_CONSOLIDATION_FAILED</key>
+	<string>合并失败</string>
+	<key>SID_GUI_MSG_PROCESS_ALREADY_ENROLLED</key>
+	<string>已登记</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED</key>
+	<string>入侵锁定</string>
+	<key>SID_GUI_MSG_PROCESS_LOCKED_TIME</key>
+	<string>入侵锁定(%1!d! 秒)</string>
+	<key>SID_GUI_MSG_PROCESS_PROGRESS</key>
+	<string>正在处理</string>
+	<key>SID_GUI_MSG_SENSOR_IN_USE</key>
+	<string>传感器正在使用中</string>
+	<key>SID_GUI_MSG_SWIPE_FINGER</key>
+	<string>扫描指纹</string>
+	<key>SID_GUI_MSG_PUT_FINGER</key>
+	<string>放上手指</string>
+	<key>SID_GUI_MSG_CENTER_AND_PRESS_HARDER</key>
+	<string>置中后用力按</string>
+	<key>SID_GUI_MSG_TOO_LEFT</key>
+	<string>太左</string>
+	<key>SID_GUI_MSG_TOO_RIGHT</key>
+	<string>太右</string>
+	<key>SID_GUI_MSG_TOO_LOW</key>
+	<string>太低</string>
+	<key>SID_GUI_MSG_TOO_HIGH</key>
+	<string>太高</string>
+	<key>SID_GUI_MSG_TOO_SMALL</key>
+	<string>太小</string>
+	<key>SID_GUI_MSG_BAD_QUALITY</key>
+	<string>质量不良</string>
+	<key>SID_GUI_MSG_CLEAN_SENSOR</key>
+	<string>清洁传感器</string>
+	<key>SID_GUI_MSG_TOO_FAST</key>
+	<string>太快</string>
+	<key>SID_GUI_MSG_TOO_SKEWED</key>
+	<string>太偏</string>
+	<key>SID_GUI_MSG_TOO_SHORT</key>
+	<string>太短</string>
+	<key>SID_GUI_MSG_BACKWARD_MOVEMENT</key>
+	<string>向后移动</string>
+	<key>SID_GUI_MSG_JOINT_DETECTED</key>
+	<string>已检测到关节</string>
+	<key>SID_GUI_MSG_LIFT_FINGER</key>
+	<string>请抬高手指</string>
+	<key>SID_GUI_MSG_TOO_LIGHT1</key>
+	<string>太轻</string>
+	<key>SID_GUI_MSG_TOO_LIGHT2</key>
+	<string>请将手指放平</string>
+	<key>ESID_ERROR_INTERNAL</key>
+	<string>发生了内部错误(%1: %2)。</string>
+	<key>ESID_ERROR_BAD_FORMAT</key>
+	<string>数据包含错误的格式。</string>
+	<key>ESID_UTCTIME_INVALID</key>
+	<string>日期无效。</string>
+</dict>
+</plist>
